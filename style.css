@@ -79,7 +79,21 @@ nav a {
   border-radius: 10px;
 }
 
-/* TEXTO */
 .hero-text {
   flex: 1;
 }
+
+.skills-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.skill-box {
+  background: #1a1a1a;
+  padding: 20px;
+  border-radius: 10px;
+  width: 250px;
+}
+
