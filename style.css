@@ -30,3 +30,56 @@ header {
   justify-content: space-between;
   align-items: center;
 }
+
+nav a {
+  margin-left: 15px;
+  color: #ffdd00;
+  text-decoration: none;
+}
+
+.hero {
+  padding: 100px 0;
+}
+
+.hero-buttons {
+  margin-top: 20px;
+}
+
+.btn {
+  background: #6c63ff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  color: white;
+  text-decoration: none;
+  margin-right: 10px;
+}
+
+.btn-outline {
+  border: 1px solid #6c63ff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  color: #6c63ff;
+  text-decoration: none;
+}
+
+.hero-layout {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+}
+
+.hero-img {
+  flex: 1;
+}
+
+.hero-img img {
+  width: 400px;
+  height: 550px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+/* TEXTO */
+.hero-text {
+  flex: 1;
+}
