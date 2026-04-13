@@ -134,3 +134,53 @@ nav a {
   margin-right: 10px;
 }
 
+.exp-box {
+  background: #1a1a1a;
+  margin-top: 20px;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+#experiencia {
+    padding: 20px;
+}
+
+#projetos {
+    padding: 20px;
+}
+#skills {
+    padding: 20px;
+}
+
+footer {
+  background: #121212;
+  padding: 40px 0;
+}
+
+/* RESPONSIVIDADE */
+@media (max-width: 768px) {
+  .header-content {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .hero {
+    padding: 60px 0;
+  }
+
+    .hero-layout {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .hero-img img {
+    height: 250px;
+  }
+
+}
