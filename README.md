@@ -6,6 +6,8 @@ Este projeto é uma landing page de portfólio pessoal desenvolvida para apresen
 
 O objetivo é criar uma interface moderna que funcione como vitrine do meu desenvolvimento como programador.
 
+Confira aqui: https://leandrodosreis.github.io/Portifolio/
+
 ---
 
 ## 🚀 Tecnologias utilizadas
