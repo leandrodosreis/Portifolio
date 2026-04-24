@@ -73,8 +73,9 @@ nav a {
 }
 
 .hero-img img {
-  width: 400px;
-  height: 550px;
+  width: 100%;
+  max-width: 400px;
+  height: auto;
   object-fit: cover;
   border-radius: 10px;
 }
